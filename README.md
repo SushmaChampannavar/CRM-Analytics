@@ -17,6 +17,7 @@ the CRM project analyzes data from key modules (accounts,users,opportunity produ
 * INTERACTIVE DASHBOARD
 * DATA DRIVEN INSIGHTS AND RECOMMENDATIONS
 
+# LEAD
 ### INSIGHTS FOR LEAD DASHBOARD
 
 ### 1.	TOP 10 COUNTRIES BY LEADS
@@ -55,7 +56,7 @@ Ex: competitor, distributors.
 ### CONCLUSION
 The CRM analysis highlights key areas for optimization in lead management and business growth. While certain regions, industries, and sources (e.g., the USA, “Inside Sales,” and “Safety and Security”) perform exceptionally well, a significant portion of data remains uncategorized, limiting actionable insights. Additionally, low engagement in specific countries, product categories, and lead sources presents untapped opportunities. To maximize impact, the organization must prioritize data accuracy, strengthen nurturing efforts, and focus on targeted strategies for underperforming segments. These steps can significantly enhance lead conversion rates and overall business performance.
 
-#### OPPORTUNITY
+# OPPORTUNITY
 ### INSIGHTS FOR OPPORTUNITY DASHBOARD
 
 ### 1.	RUNNING TOTAL EXPECTED vs COMMIT FORECAST AMOUNT OVER TIME
