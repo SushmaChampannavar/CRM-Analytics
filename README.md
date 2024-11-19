@@ -1,4 +1,4 @@
-# CRM-Analytics
+# CRM-ANALYTICS
 ### OVERVIEW
 the CRM project analyzes data from key modules (accounts,users,opportunity products and leads) to improve customer relationships and sales performance analysis, lead conversion optimization,user activity assesements, and forecasting trends. the project aims to generate actionable insights using tools loke powerBI or excel for better decision-making and stratergic planning in sales and marketting.
 
@@ -54,5 +54,46 @@ Ex: competitor, distributors.
 
 ### CONCLUSION
 The CRM analysis highlights key areas for optimization in lead management and business growth. While certain regions, industries, and sources (e.g., the USA, “Inside Sales,” and “Safety and Security”) perform exceptionally well, a significant portion of data remains uncategorized, limiting actionable insights. Additionally, low engagement in specific countries, product categories, and lead sources presents untapped opportunities. To maximize impact, the organization must prioritize data accuracy, strengthen nurturing efforts, and focus on targeted strategies for underperforming segments. These steps can significantly enhance lead conversion rates and overall business performance.
+
+#### OPPORTUNITY
+### INSIGHTS FOR OPPORTUNITY DASHBOARD
+
+### 1.	RUNNING TOTAL EXPECTED vs COMMIT FORECAST AMOUNT OVER TIME
+•	There is a significant spike in the “running expected amt” in 2020, indicating a surge in expected amount.
+•	The expected amount plateaus at 184M from 2021 onwards, suggesting the market saturation.
+•	The running commit forecast amount grows slowly at 15M from 2021 onwards, indicating conservative commitment.
+
+### 2.OPPORTUNITIES WISE TOP 12 INDUSTRIES
+•	Dominance of biopharma/pharmaceuticals sector has the highest number of opportunities (1143), significantly surpassing other industries.
+•	With 558 opportunities, state and local sectors are the second largest source. reflecting steady Government involvement.
+•	We can see that Biopharma, state and local and NA collectively represents a substantial share of total opportunities. Suggesting specific sector focus.
+
+### 3. RUNNING ACTIVE OPPORTUNITIES vs TOTAL OPPORTUNITIES OVER TIME
+•	Total opportunities have consistently grown from 2011-2024.stabilizing around 4645 by 2025.
+•	Active opportunities increased until 2023 but seem to plateau after that, indicating a peak or saturation point around 1272.
+•	Since active opportunities are for far lower than total opportunities, It suggest many opportunities are either converted, closed or no longer active.
+•	Both total and active opportunity growth has showed significantly after 2023.showing a potential market saturation or slower lead acquisition.
+
+### 4.CLOSED WON vs TOTAL CLOSED OPPORTUNITIES
+•	The no’ of “total closed opportunities” and closed won peaked in 2020.indicating a high success rate.
+•	Both closed opportunities and closed won no’ dropped to nearly zero after 2021, which may suggest a strategic shift, market change or operational challenges.
+
+### 5.EXPECTED AMT vs OPPORTUNITY TYPE
+•	The 98% from the total comes from the opportunity which is not specified.
+•	Then followed by safety and security opportunity 
+•	And lowest is existing Business.
+### 6.CLOSED WON vs TOTAL OPPORTUNITY OVER TIME
+•	The no’ of “closed won” opportunities fluctuates but shows an upward trend towards recent years
+•	This trend suggests improved closing strategies or better lead qualification over time. 
+
+### RECOMMENDATION
+1.Explore new markets or innovative offerings to counter stagnation in expected and active opportunities after 2023.
+2.captalize on the Biopharma/ pharmaceautical and state and local sectors,which dominate opportunities by tailoring strategies and offerings.
+3.Investigate why 98% of opprtunities are unspecified and implement stricter categorization to enable targeted decision-making.
+4.Analyse the drop in closed opprtunities after 2021 to identify and address stratergic or operational issues.
+5.use 2020's high success rate as a benchmark to refine closing strategies and lead qualification for sustainable growth.
+
+### CONCLUSION
+The Opportunity Dashboard highlights a robust growth trajectory until 2023, followed by signs of market saturation and slowing opportunity acquisition. The dominance of Biopharma/Pharmaceutical and State & Local sectors emphasizes key areas for focus, while the high percentage of unspecified opportunities underscores the need for better data categorization. The decline in closed opportunities after 2021 signals potential strategic or operational challenges that need immediate attention. By addressing these issues and leveraging historical successes, the organization can refine its strategies to sustain growth and improve conversion rates in the coming years.
 
 
